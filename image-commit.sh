@@ -2,7 +2,7 @@
 # This file is used to commit the docker image for miousify account
 
 #define variables
-owner=joshuanjohnson
+owner=miousify
 imageName=miousify_tower_service
 tag=v0.0.1
 
